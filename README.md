@@ -1,7 +1,6 @@
 # Desafio-Diagrama-de-Classes-UML
-##Desafio Diagrama de Classes UML 
 
-Feito atráves do curso Java developer DIO, instrutor Gleyson Sampaio.
+Feito atráves do curso Java developer DIO
 
 O projeto foi realizando com diagrama UML usando a ideia do Iphone foi lançando em 2007 Steven Jobs
 
